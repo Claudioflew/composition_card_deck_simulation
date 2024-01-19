@@ -1,0 +1,5 @@
+# ninja log v5
+0	240	1705626227419892476	CMakeFiles/Assignment6_CardDeckSimulationComposition.dir/Card.cpp.o	a712f9115fd1d223
+0	282	1705626227461256796	CMakeFiles/Assignment6_CardDeckSimulationComposition.dir/main.cpp.o	d5599752751bc9d6
+0	298	1705626227476591265	CMakeFiles/Assignment6_CardDeckSimulationComposition.dir/DeckOfCards.cpp.o	da357733db98d130
+298	341	1705626227522422716	Assignment6_CardDeckSimulationComposition	fefa717c2fff14e3
